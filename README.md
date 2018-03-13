@@ -2,21 +2,9 @@
 
 This is a layout for custom keycap legends for a [WASD v2 87-key mechanical keyboard][wasd].
 
-<img
-  src="images/overview-800.png"
-  srcset="images/overview-800.png 800w
-          images/overview-1600.png 1600w
-          images/overview-2400.png 2400w"
-  sizes="800px"
-  alt="overview">
+![overview](images/overview-2400.png)
 
-<img
-  src="images/closeup-800.png"
-  srcset="images/closeup-800.png 800w
-          images/closeup-1600.png 1600w
-          images/closeup-2400.png 2400w"
-  sizes="800px"
-  alt="closeup">
+![closeup](images/closeup-2400.png)
 
 ## Description
 
